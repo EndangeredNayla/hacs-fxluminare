@@ -11,7 +11,8 @@
   "homekit": {},
   "dependencies": [],
   "codeowners": [
-    "@pbozeman"
+    "@pbozeman",
+    "@UnicorNayla"
   ],
   "iot_class": "local_polling"
 }
